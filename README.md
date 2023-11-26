@@ -25,4 +25,4 @@
 </ul>
 
 <!-- Screenshot -->
-<img alt="Calculator App Screenshot" src="https://github.com/asfandalidal/Calculator/raw/master/app/src/main/calculatorApp.png" width="600">
+<img alt="Calculator App Screenshot" src="https://github.com/asfandalidal/Calculator/raw/master/app/src/main/calculatorApp.png" width="300">
